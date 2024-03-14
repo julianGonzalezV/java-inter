@@ -1,15 +1,0 @@
-
-Q
-java:S3740	"/Provide the parametrized type for this generic.(ıÀÚËúÿÿÿÿ8Ó‚şáÓ1
-{
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Œíúºÿÿÿÿÿ8Ú‚şáÓ1
-G	java:S106"+Replace this use of System.out by a logger.(„±‰8Û‚şáÓ1
-G	java:S106"+Replace this use of System.out by a logger.(Óä²Ô8Ü‚şáÓ1
-G	java:S106"+Replace this use of System.out by a logger.(™¢ú8Ü‚şáÓ1
-{
-java:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Œíúºÿÿÿÿÿ8…éÓ1
-j	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓş®8—ÿ…âÓ1
-G	java:S1069"+Replace this use of System.out by a logger.(„±‰8áœ„âÓ1
-G	java:S106:"+Replace this use of System.out by a logger.(Óä²Ô8áœ„âÓ1
-G	java:S106;"+Replace this use of System.out by a logger.(™¢ú8áœ„âÓ1
-L	java:S106A"+Replace this use of System.out by a logger.(şûŠĞøÿÿÿÿ8šÇŠâÓ1

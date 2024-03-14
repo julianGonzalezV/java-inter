@@ -1,31 +1,0 @@
-
-c
-java:S1192
-"FDefine a constant instead of duplicating this literal "Tulua" 5 times.(®›õÎ8š¸ûíÜ1
-c
-java:S1192
-"FDefine a constant instead of duplicating this literal "Paola" 3 times.(®›õÎ8š¸ûíÜ1
-t
-java:S11923"RDefine a constant instead of duplicating this literal "myTeam2Leader => " 3 times.(ˆÈşìÿÿÿÿÿ8›¸ûíÜ1
-d
-java:S1192"GDefine a constant instead of duplicating this literal "Itagui" 4 times.(ÆÓƒê8›¸ûíÜ1
-i
-java:S1192"GDefine a constant instead of duplicating this literal "Matias" 3 times.(£ç÷®úÿÿÿÿ8›¸ûíÜ1
-h
-java:S11924"FDefine a constant instead of duplicating this literal "OTHER" 3 times.(©õ–µÿÿÿÿÿ8›¸ûíÜ1
-f
-java:S1192
-"IDefine a constant instead of duplicating this literal "Finances" 5 times.(®›õÎ8›¸ûíÜ1
-e
-java:S1192"HDefine a constant instead of duplicating this literal "Julian" 10 times.(ÆÓƒê8›¸ûíÜ1
-a
-java:S4143"DVerify this is the key that was intended; it was already set before.(¼üëŒ8¯¸ûíÜ1
-L	java:S106&"+Replace this use of System.out by a logger.(Åºæûÿÿÿÿ8´¸ûíÜ1
-G	java:S106+"+Replace this use of System.out by a logger.(Á­¨Ä8µ¸ûíÜ1
-G	java:S106/"+Replace this use of System.out by a logger.(ğÙ®—8·¸ûíÜ1
-L	java:S1063"+Replace this use of System.out by a logger.(ˆÈşìÿÿÿÿÿ8¸¸ûíÜ1
-G	java:S1065"+Replace this use of System.out by a logger.(åƒ£Â8¹¸ûíÜ1
-G	java:S1068"+Replace this use of System.out by a logger.(åƒ£Â8»¸ûíÜ1
-L	java:S106="+Replace this use of System.out by a logger.(ìÑ³˜úÿÿÿÿ8¾¸ûíÜ1
-L	java:S106?"+Replace this use of System.out by a logger.(Îëüğşÿÿÿÿ8À¸ûíÜ1
-F	java:S106C"+Replace this use of System.out by a logger.(Í®‡z8Á¸ûíÜ1
