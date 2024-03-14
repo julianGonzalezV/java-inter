@@ -1,0 +1,15 @@
+
+z	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(Ï†Â„ûÿÿÿÿ8Âæï°Ö1
+`
+java:S1854	">Remove this useless assignment to local variable "arr1Length".(×ŽÙªúÿÿÿÿ8ÿæï°Ö1
+Q
+java:S1481	"/Remove this unused "arr1Length" local variable.(×ŽÙªúÿÿÿÿ8ÿæï°Ö1
+L	java:S106C"+Replace this use of System.out by a logger.(â“¼²ûÿÿÿÿ8‚çï°Ö1
+L	java:S106H"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ƒçï°Ö1
+L	java:S106K"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ƒçï°Ö1
+L	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ƒçï°Ö1
+L	java:S106U"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8„çï°Ö1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¿ðò°Ö1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8¿ðò°Ö1

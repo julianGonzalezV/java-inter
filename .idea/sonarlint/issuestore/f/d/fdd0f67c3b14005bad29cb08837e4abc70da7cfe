@@ -1,0 +1,27 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éìó“ùÿÿÿÿ
+t
+java:S14885"^Immediately return this expression instead of assigning it to the temporary variable "result".(•¿ôÔ
+E	java:S1067"+Replace this use of System.out by a logger.(Ÿøìıÿÿÿÿ
+]	java:S125?"<This block of commented-out lines of code should be removed.(…ƒÂøÿÿÿÿ8«ÿŸ±Ä1
+@	java:S106N"+Replace this use of System.out by a logger.(µ‘û¨
+E	java:S106O"+Replace this use of System.out by a logger.(ÔõÃ­ùÿÿÿÿ
+@	java:S106b"+Replace this use of System.out by a logger.(ÄÆí¯
+E	java:S106c"+Replace this use of System.out by a logger.(ŠæÊüÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(‘Ãæôıÿÿÿÿ
+E	java:S106e"+Replace this use of System.out by a logger.(¹×¬¤ÿÿÿÿÿ
+@	java:S106f"+Replace this use of System.out by a logger.(øÖ°
+E	java:S106h"+Replace this use of System.out by a logger.(óöˆİøÿÿÿÿ
+L	java:S106i"+Replace this use of System.out by a logger.(ó·Ôƒıÿÿÿÿ8¦·œ±Ä1
+F	java:S106j"+Replace this use of System.out by a logger.(âæªL8¦·œ±Ä1
+L	java:S106k"+Replace this use of System.out by a logger.(æÁéäúÿÿÿÿ8–¿¼Ô1
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+W
+java:S1144$"<Remove this unused private "listSumGreatherThanZero" method.(éìó“ùÿÿÿÿ

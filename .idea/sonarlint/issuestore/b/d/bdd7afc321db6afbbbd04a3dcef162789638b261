@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ûûÖ»Õ1
+b
+java:S2259*"EA "NullPointerException" could be thrown; "service" is nullable here.(›Ğ÷8€üÖ»Õ1
+G	java:S106"+Replace this use of System.out by a logger.(½¸ÊĞ8‚üÖ»Õ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒüÖ»Õ1
+G	java:S106"+Replace this use of System.out by a logger.(ıÚƒ¢8„üÖ»Õ1
+L	java:S106"+Replace this use of System.out by a logger.(ã»Ğùÿÿÿÿ8„üÖ»Õ1
+G	java:S106"+Replace this use of System.out by a logger.(á×É„8„üÖ»Õ1
+G	java:S106$"+Replace this use of System.out by a logger.(¨¹®œ8…üÖ»Õ1

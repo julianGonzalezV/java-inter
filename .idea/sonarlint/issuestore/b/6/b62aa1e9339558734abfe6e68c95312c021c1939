@@ -1,0 +1,34 @@
+
+E
+java:S3740H"/Provide the parametrized type for this generic.(ù‹ÒÅ
+E
+java:S3740l"/Provide the parametrized type for this generic.(ù‹ÒÅ
+k
+java:S1149""PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ò·İËúÿÿÿÿ
+f
+java:S1149H"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ù‹ÒÅ
+f
+java:S1149l"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ù‹ÒÅ
+@	java:S106'"+Replace this use of System.out by a logger.(Õ‹
+E	java:S106+"+Replace this use of System.out by a logger.(áÄù¾ûÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(—°ï
+@	java:S106."+Replace this use of System.out by a logger.(Ì©‹
+E	java:S106/"+Replace this use of System.out by a logger.(Š Ğùúÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ş›…›
+V
+java:S1854?"@Remove this useless assignment to local variable "cleanedInput".(°…£ê
+G
+java:S1481?"1Remove this unused "cleanedInput" local variable.(°…£ê
+?	java:S106Z"+Replace this use of System.out by a logger.(İæıd
+E	java:S106v"+Replace this use of System.out by a logger.(€íÏíüÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(ˆöÙ«úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+B
+java:S1128	",Remove this unused import 'java.util.Queue'.(Äá™ô
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+I
+java:S1144 ".Remove this unused private "showIntro" method.(ÑËÈúÿÿÿÿ

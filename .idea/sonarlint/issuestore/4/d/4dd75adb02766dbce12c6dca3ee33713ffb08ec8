@@ -1,0 +1,13 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(ÑÆŸùúÿÿÿÿ
+}
+java:S11922"bDefine a constant instead of duplicating this literal "this is a sample and other sample" 3 times.(‹£•Ÿúÿÿÿÿ
+^
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ìí¶
+E	java:S1062"+Replace this use of System.out by a logger.(‹£•Ÿúÿÿÿÿ
+E	java:S1063"+Replace this use of System.out by a logger.(³–Û©şÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(²Íï¦
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
